@@ -1,7 +1,7 @@
 # Overview
-As a software engineer in the health tech space, I've always had an interest in pharmacokinetics. I've done a lot of work with insulin medications and creating application around the administration/monitoring of these medications.
+As a software engineer in the health tech space, I've always had an interest in pharmacokinetics. I've done a lot of work with insulin medications and creating applications around the administration/monitoring of these medications.
 
-After I fractured my foot, I had to take some narcotic medication and I was really worried about mixing my medications and having adverse side effects. So I created this script that calculates the half life of various medications that can cause respiratory depression or may be dangerous to mix with other mediciations.
+After I fractured my foot, I had to take some narcotic medication and I was really worried about mixing my medications and having adverse side effects with my ADHD meds. So I created this script that calculates the half life of various medications that can cause respiratory depression or may be dangerous to mix with other mediciations.
 
 It's easy to estimate how much a mediciation is going to last when you know the half life and you take a single dose, but it gets tricky when you have overlapping doses of long acting medications.
 
